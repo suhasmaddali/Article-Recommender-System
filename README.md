@@ -1,6 +1,6 @@
 # Article Recommender System
 
-<img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/absolutvision-bSlHKWxxXak-unsplash.jpg" width = "750" />
+<img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Article%20Recommender%20System%20Image.jpg" width = "750" />
 
 ## Problem Statement
 
