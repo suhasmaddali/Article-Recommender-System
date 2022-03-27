@@ -10,4 +10,6 @@ We see that articles are present almost everywhere which convey a lot of informa
 
 ## Challenges
 
-One of the key things to note is that an user or a reader would be more engaged to those articles that are similar to the ones read earlier. Therefore, if we could come up with a technology that recommends users articles, this would ensure that the reader is engaged and is likely going to read other articles as well. 
+When a reader is going through an article, they might sometimes get bored and feel like not reading because the present article contains information that is beyond the comprehension of a reader to understand and interpret text compared to previous articles. Hence their interest would drop as a result of articles being dissimilar to the already read articles. 
+
+One of the key things to note is that a user or a reader would be more engaged in those articles that are similar to the ones read earlier. Therefore, if we could come up with a technology that recommends users' articles, this would ensure that the reader is engaged and is likely going to read other articles as well. 
