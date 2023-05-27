@@ -30,6 +30,8 @@ This step plays a crucial role in machine learning by uncovering diverse pattern
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Text%20wordcloud.jpg"/>
 
+<img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/PCA%20variance%20explained.jpg"/>
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
