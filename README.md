@@ -14,6 +14,12 @@ When a reader is going through an article, they might sometimes get bored and fe
 
 One of the key things to note is that a user or a reader would be more engaged in those articles that are similar to the ones read earlier. Therefore, if we could come up with a technology that recommends users' articles, this would ensure that the reader is engaged and is likely going to read other articles as well. 
 
+## Exploratory Data Analysis
+
+This step plays a crucial role in machine learning by uncovering diverse patterns and trends within the data. By doing so, we gain valuable insights into the data's quality, including the presence of missing information, outliers, or inaccurate labels. Furthermore, this information enables us to effectively communicate specific data-related actions to the business, empowering them to take appropriate measures accordingly.
+
+<img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Missingno%20plot.jpg"/>
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
