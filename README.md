@@ -26,6 +26,8 @@ This step plays a crucial role in machine learning by uncovering diverse pattern
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Language%20barplot.jpg"/>
 
+<img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Title%20wordcloud.jpg"/>
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
