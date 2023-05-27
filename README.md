@@ -22,6 +22,8 @@ This step plays a crucial role in machine learning by uncovering diverse pattern
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Timestamp%20Histplots.jpg"/>
 
+<img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Content%20type%20histplot.jpg"/>
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
