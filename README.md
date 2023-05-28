@@ -34,6 +34,8 @@ The majority of the articles are written in English, with a smaller number avail
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Language%20barplot.jpg"/>
 
+Wordclouds provide a visual depiction of word frequencies within our text corpus, offering valuable insights into the relative occurrence of specific words. The size of each word in the wordcloud reflects its frequency in the text. By utilizing wordcloud plots, we can effectively analyze word occurrences. Notably, our titles frequently include terms such as "Google," "Machine Learning," and other related technologies, indicating their prominent presence.
+
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Title%20wordcloud.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Text%20wordcloud.jpg"/>
