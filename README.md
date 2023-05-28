@@ -26,6 +26,8 @@ As part of our analysis, we will visualize the time stamp information of the art
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Timestamp%20Histplots.jpg"/>
 
+The majority of the articles are presented as links, while a smaller proportion consists of videos and other formats. However, the predominant format for the articles is HTML, providing us with a consistent structure for analysis and processing.
+
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Content%20type%20histplot.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Language%20barplot.jpg"/>
