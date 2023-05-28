@@ -18,6 +18,8 @@ One of the key things to note is that a user or a reader would be more engaged i
 
 This step plays a crucial role in machine learning by uncovering diverse patterns and trends within the data. By doing so, we gain valuable insights into the data's quality, including the presence of missing information, outliers, or inaccurate labels. Furthermore, this information enables us to effectively communicate specific data-related actions to the business, empowering them to take appropriate measures accordingly.
 
+We will be using the missingno plot that shows the null values present in the dataset. There are features such as text and others that do not contain any missing values. There are a few set of features that contain the missing values. 
+
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Missingno%20plot.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Timestamp%20Histplots.jpg"/>
