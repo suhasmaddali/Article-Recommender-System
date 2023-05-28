@@ -22,6 +22,8 @@ To visualize the null values in the dataset, we will employ the missingno plot. 
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Missingno%20plot.jpg"/>
 
+As part of our analysis, we will visualize the time stamp information of the articles. Upon examination, we have observed that there are numerous instances where the time stamps are similar. Consequently, a significant portion of our data comprises articles with similar time stamps, allowing us to focus on this subset of data for further investigation.
+
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Timestamp%20Histplots.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Content%20type%20histplot.jpg"/>
