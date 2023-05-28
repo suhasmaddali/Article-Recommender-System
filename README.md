@@ -30,6 +30,8 @@ The majority of the articles are presented as links, while a smaller proportion 
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Content%20type%20histplot.jpg"/>
 
+The majority of the articles are written in English, with a smaller number available in other languages. As a result, it is advantageous for us to prioritize our attention and efforts towards analyzing the English language articles to maximize the potential benefits and insights obtained.
+
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Language%20barplot.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Title%20wordcloud.jpg"/>
