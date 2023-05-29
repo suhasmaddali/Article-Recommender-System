@@ -46,6 +46,8 @@ To cluster and recommend articles, we will utilize principal component analysis 
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/PCA%20variance%20explained.jpg"/>
 
+<img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/PCA%20tfidf.jpg"/>
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
