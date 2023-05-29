@@ -42,6 +42,8 @@ We will analyze the entire text to gain insights into its sentiment, while also 
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Text%20wordcloud.jpg"/>
 
+To cluster and recommend articles, we will utilize principal component analysis (PCA) to identify the key components. This approach allows us to determine the percentage of variance explained by the models. Upon analysis, we observe that a significant number of elements contribute to approximately 90 percent of the total variance. Consequently, we conclude that reducing the number of components extensively is unnecessary.
+
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/PCA%20variance%20explained.jpg"/>
 
 ## 👉 Directions to download the repository and run the notebook 
