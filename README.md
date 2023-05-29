@@ -38,6 +38,8 @@ Wordclouds provide a visual depiction of word frequencies within our text corpus
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Title%20wordcloud.jpg"/>
 
+We will analyze the entire text to gain insights into its sentiment, while also paying attention to the most recent words that appear. It is often observed that certain words like "one" and "will" occur frequently in comparison to others.
+
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Text%20wordcloud.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/PCA%20variance%20explained.jpg"/>
