@@ -58,6 +58,8 @@ The 2-dimensional visualization of the data using PCA and the k-means clustering
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/k%20means%202d%20plot.jpg"/>
 
+We will now examine the 3D representation of the clusters formed using the k-means clustering approach. It is evident that some points lie significantly further away from the central data points. Nevertheless, the clustering approach demonstrates satisfactory performance in classifying and grouping the data points into distinct clusters.
+
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/3d%20plot%20k%20means.jpg"/>
 
 ## 👉 Directions to download the repository and run the notebook 
