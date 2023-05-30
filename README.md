@@ -50,6 +50,8 @@ To obtain a high percentage of variance explained, a PCA analysis on a tf-idf te
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/PCA%20tfidf.jpg"/>
 
+The elbow method is used to identify the optimal number of clusters for a k-means clustering model. In our case, we have determined that the most suitable value for k is 11. This decision is based on observing that beyond this number, the reduction in total inertia becomes marginal compared to the significant decrease observed when transitioning from 1 cluster to 11 clusters.
+
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/k%20means%20clustering.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/k%20means%202d%20plot.jpg"/>
