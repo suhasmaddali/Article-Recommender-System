@@ -54,6 +54,8 @@ The elbow method is used to identify the optimal number of clusters for a k-mean
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/k%20means%20clustering.jpg"/>
 
+The 2-dimensional visualization of the data using PCA and the k-means clustering model reveals that a considerable number of clusters are accurately classified. However, there is room for improvement in refining certain clusters for better accuracy.
+
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/k%20means%202d%20plot.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/3d%20plot%20k%20means.jpg"/>
