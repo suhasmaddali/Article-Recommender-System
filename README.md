@@ -62,6 +62,8 @@ We will now examine the 3D representation of the clusters formed using the k-mea
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/3d%20plot%20k%20means.jpg"/>
 
+We will analyze the TF-IDF vectorization and apply PCA to visualize the clusters in a 2-dimensional view. The classification and division of data points into multiple clusters are generally successful. Notably, the PCA results after employing TF-IDF vectorization differ from those obtained using the previous vectorizer we utilized.
+
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/tsne%202d%20plots.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/tfidf%203d%20plot.jpg"/>
