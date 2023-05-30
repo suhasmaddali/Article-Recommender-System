@@ -46,7 +46,7 @@ To cluster and recommend articles, we will utilize principal component analysis 
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/PCA%20variance%20explained.jpg"/>
 
-PCA with tfidf text array is shown below. In order to get the percentage of variance explained, we need at least 1000 components or more from the PCA analysis. This indicates that a large number of components are needed to explain the data points without reconstruction errors. 
+To obtain a high percentage of variance explained, a PCA analysis on a tf-idf text array typically requires at least 1000 or more components. This suggests that a considerable number of components is necessary to accurately represent the data points and minimize reconstruction errors.
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/PCA%20tfidf.jpg"/>
 
