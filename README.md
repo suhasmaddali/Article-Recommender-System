@@ -62,6 +62,8 @@ We will now examine the 3D representation of the clusters formed using the k-mea
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/3d%20plot%20k%20means.jpg"/>
 
+<img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/tsne%202d%20plots.jpg"/>
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
