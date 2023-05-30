@@ -66,6 +66,8 @@ We will analyze the TF-IDF vectorization and apply PCA to visualize the clusters
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/tsne%202d%20plots.jpg"/>
 
+Next, we will examine the 3D representation of the data points. It is notable that the data points appear to be closely clustered together after performing PCA with dimensionality reduction. The number of outliers is significantly reduced compared to the previous method. Overall, the k-means clustering approach with the implementation of TF-IDF vectorization demonstrates strong performance in accurately classifying the data points.
+
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/tfidf%203d%20plot.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Kernel%20PCA%202d%20plots.jpg"/>
