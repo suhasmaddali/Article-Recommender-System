@@ -10,9 +10,7 @@ We see that articles are present almost everywhere which convey a lot of informa
 
 ## Challenges
 
-When a reader is going through an article, they might sometimes get bored and feel like not reading because the present article contains information that is beyond the comprehension of a reader to understand and interpret text compared to previous articles. Hence their interest would drop as a result of articles being dissimilar to the already read articles. 
-
-One of the key things to note is that a user or a reader would be more engaged in those articles that are similar to the ones read earlier. Therefore, if we could come up with a technology that recommends users' articles, this would ensure that the reader is engaged and is likely going to read other articles as well. 
+While reading an article, readers may sometimes lose interest if the content becomes too complex or difficult to comprehend compared to previous articles. As a result, they may feel bored and discouraged from continuing. However, if we develop a technology that recommends articles similar to the ones they have previously read, it can help maintain their engagement and encourage them to explore additional articles. This personalized recommendation system ensures that readers stay interested and are more likely to continue reading.
 
 ## Exploratory Data Analysis
 
