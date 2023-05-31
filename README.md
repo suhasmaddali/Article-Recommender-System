@@ -70,7 +70,7 @@ Next, we will examine the 3D representation of the data points. It is notable th
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/tfidf%203d%20plot.jpg"/>
 
-In a similar vein, we would now be using the kernel PCA to determine the best ways to cluster with k-means clustering model. 
+We are currently employing kernel PCA to enhance our clustering model using k-means. Kernel PCA, akin to PCA, focuses on dimensionality reduction. However, it outperforms PCA when it comes to handling outliers. To evaluate the optimal clustering technique in conjunction with dimensionality reduction, we will visualize 3D plots.
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Kernel%20PCA%202d%20plots.jpg"/>
 
