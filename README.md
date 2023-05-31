@@ -74,6 +74,8 @@ We are currently employing kernel PCA to enhance our clustering model using k-me
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Kernel%20PCA%202d%20plots.jpg"/>
 
+The utilization of Kernel PCA in generating 3D plots has proven effective in creating distinct clusters. The resulting clusters exhibit noticeable separability, showcasing the success of Kernel PCA in accurately classifying and partitioning the data points.
+
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Kernel%20PCA%203d%20plots.jpg"/>
 
 ## 👉 Directions to download the repository and run the notebook 
