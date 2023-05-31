@@ -70,6 +70,8 @@ Next, we will examine the 3D representation of the data points. It is notable th
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/tfidf%203d%20plot.jpg"/>
 
+In a similar vein, we would now be using the kernel PCA to determine the best ways to cluster with k-means clustering model. 
+
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Kernel%20PCA%202d%20plots.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Kernel%20PCA%203d%20plots.jpg"/>
