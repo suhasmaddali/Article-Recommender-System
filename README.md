@@ -78,6 +78,10 @@ The utilization of Kernel PCA in generating 3D plots has proven effective in cre
 
 ## Future Scope
 
+* To enhance user experience, we can develop and deploy a real-time algorithm that provides live predictions and personalized article recommendations based on users' history of previously read articles. 
+* By implementing this algorithm, users can receive up-to-date predictions and recommendations that cater to their specific interests and preferences. 
+* This will enable a dynamic and engaging content discovery experience tailored to each individual user.
+* To enhance the k-means clustering model, we can train it with a wider variety of content topics, leading to improved accuracy and broader applicability in article recommendations. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
