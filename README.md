@@ -76,6 +76,9 @@ The utilization of Kernel PCA in generating 3D plots has proven effective in cre
 
 <img src = "https://github.com/suhasmaddali/Article-Recommender-System/blob/main/Images/Kernel%20PCA%203d%20plots.jpg"/>
 
+## Future Scope
+
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
